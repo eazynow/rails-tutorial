@@ -1,0 +1,2 @@
+== README
+This is just the tutorial from http://guides.rubyonrails.org/ so I can get familiar with rails
